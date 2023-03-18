@@ -139,7 +139,7 @@ public class HAMURABI {
 					"DEARLY LIKE TO SEE YOU ASSASSINATED BUT WE ALL HAVE OUR" +
 					"TRIVIAL PROBLEMS";
 		else
-			answer += "A FANTASTIC PERFORMANCE!!!  CHARLEMANGE, DISRAELI, AND\n" +
+			answer += "A FANTASTIC PERFORMANCE!!!  CHARLEMAGNE, DISRAELI, AND\n" +
 					"JEFFERSON COMBINED COULD NOT HAVE DONE BETTER!";
 		answer += "\n\n\n\n\n\n\n\n\n\nSo long for now.";
 		System.out.println(answer);
