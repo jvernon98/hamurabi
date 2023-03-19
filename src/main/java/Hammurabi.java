@@ -1,5 +1,4 @@
 package hammurabi.src.main.java;
-import java.time.Year;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -48,6 +47,9 @@ import java.util.Scanner;
         }
 
         private GAME_STATE gameState;
+        public Hammurabi(){
+            gameState = GAME_STATE.startUp;
+        }
 
         private void introduction() {
             System.out.println(" O great Hammurabi!\n"+
